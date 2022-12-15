@@ -4,3 +4,4 @@ hello.txt
 *.data
 Python-Basics_day2.ipynb
 File Handling In Python.ipynb
+__pycache__
