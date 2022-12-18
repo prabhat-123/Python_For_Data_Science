@@ -1,8 +1,6 @@
 .ipynb_checkpoints
 car_price_knn.ipynb
-hello.txt
 *.data
-Python-Basics_day2.ipynb
-File Handling In Python.ipynb
 __pycache__
 Sorting Algorithms.ipynb
+OOP_in_Python.ipynb

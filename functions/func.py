@@ -1,3 +1,5 @@
+from csv import reader
+
 def addition(a, b):
     result = a + b
     return result
@@ -29,3 +31,12 @@ def freq_table(datasets, index):
         else:
             freq_dict[item[index]] += 1
     return freq_dict
+
+
+def read_csv(file):
+
+    f = open(file)
+    data = reader(f)
+    dataset = list(data)
+    f.close()
+    return dataset
