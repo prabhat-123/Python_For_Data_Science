@@ -18,3 +18,4 @@ class file:
         f=open(self.filename,self.mode)
         f.write('Appending on the file')
         f.close()
+
