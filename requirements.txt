@@ -3,3 +3,4 @@ jupyterlab
 notebook
 numpy
 pandas
+openpyxl
