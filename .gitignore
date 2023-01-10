@@ -1,4 +1,3 @@
 .ipynb_checkpoints
 car_price_knn.ipynb
-*.data
 __pycache__
