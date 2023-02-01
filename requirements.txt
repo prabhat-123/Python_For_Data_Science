@@ -4,3 +4,4 @@ notebook
 numpy
 pandas
 openpyxl
+matplotlib
