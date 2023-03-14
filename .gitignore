@@ -4,3 +4,4 @@ __pycache__
 crop_health_final.csv
 ensemble.ipynb
 feature_engineering_crop_health_prediction.ipynb
+water_quality.ipynb
