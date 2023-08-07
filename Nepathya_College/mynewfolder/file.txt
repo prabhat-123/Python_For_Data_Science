@@ -1,0 +1,240 @@
+company_id	false	HG_Insights_CompanyId
+AWS_Intensity	false	AWS_Intensity
+GCP_Intensity	false	GCP_Intensity
+Azure_Intensity	false	Azure_Intensity
+AWS CloudFormation_Sum	true	AWS CloudFormation_Sum
+AWS Lambda_Sum	true	AWS Lambda_Sum
+Agilent Technologies_Sum	true	Agilent Technologies_Sum
+Allscripts (Unspecified Product)_Sum	true	Allscripts (Unspecified Product)_Sum
+Altium (Unspecified Product)_Sum	true	Altium (Unspecified Product)_Sum
+Amazon DynamoDB_Sum	true	Amazon DynamoDB_Sum
+Amazon EC2_Sum	true	Amazon EC2_Sum
+Amazon Elastic Block Store (Amazon EBS)_Sum	true	Amazon Elastic Block Store (Amazon EBS)_Sum
+Amazon Elastic Container Service (ECS)_Sum	true	Amazon Elastic Container Service (ECS)_Sum
+Amazon Elastic Container Service for Kubernetes (EKS)_Sum	true	Amazon Elastic Container Service for Kubernetes (EKS)_Sum
+Amazon S3_Sum	true	Amazon S3_Sum
+Amazon S3 Glacier_Sum	true	Amazon S3 Glacier_Sum
+Amazon Web Services (AWS)_Sum	false	Amazon Web Services (AWS)
+Ansible_Sum	true	Ansible
+Apache Cassandra_Sum	true	Apache Cassandra_Sum
+Apache Hadoop_Sum	true	Apache Hadoop_Sum
+Apache Hbase_Sum	true	Apache Hbase_Sum
+Apache Hive_Sum	true	Apache Hive_Sum
+Apache Spark_Sum	true	Apache Spark_Sum
+Apache Spark MLlib_Sum	true	Apache Spark MLlib_Sum
+Athenahealth (Unspecified Product)_Sum	true	Athenahealth (Unspecified Product)_Sum
+Atlassian Bamboo_Sum	true	Atlassian Bamboo_Sum
+Atlassian Bitbucket_Sum	true	Atlassian Bitbucket_Sum
+Atlassian JIRA Software_Sum	true	Atlassian JIRA Software_Sum
+AutoCAD_Sum	true	AutoCAD_Sum
+Autodesk Inventor_Sum	true	Autodesk Inventor_Sum
+Azure Cosmos DB_Sum	true	Azure Cosmos DB_Sum
+Azure Kubernetes Service (AKS)_Sum	true	Azure Kubernetes Service (AKS)_Sum
+Azure Machine Learning_Sum	true	Azure Machine Learning_Sum
+Azure Redis Cache_Sum	true	Azure Redis Cache_Sum
+Bentley (Unspecified Product)_Sum	true	Bentley (Unspecified Product)_Sum
+BeyondTrust Remote Support_Sum	true	BeyondTrust Remote Support_Sum
+Brocade_Sum	true	Brocade_Sum
+Brocade Switches_Sum	true	Brocade Switches_Sum
+CATIA_Sum	true	CATIA_Sum
+Cadence (Unspecified Product)_Sum	true	Cadence (Unspecified Product)_Sum
+Cerner (Unspecified Product)_Sum	true	Cerner (Unspecified Product)_Sum
+Chef_Sum	true	Chef_Sum
+Cisco Blade Servers_Sum	false	Cisco Blade Servers
+Cisco FlexPod_Sum	false	Cisco FlexPod
+Cisco HyperFlex_Sum	true	Cisco HyperFlex_Sum
+Cisco Nexus Switches_Sum	true	Cisco Nexus Switches_Sum
+Cisco TelePresence VCS Expressway_Sum	false	Cisco TelePresence VCS Expressway
+Cisco UCS Servers_Sum	false	Cisco UCS Servers
+Citrix (Unspecified Product)_Sum	false	Citrix
+Citrix VDI-in-a-Box_Sum	true	Citrix VDI-in-a-Box
+Citrix Virtual Apps_Sum	true	Citrix Virtual Apps
+Citrix Virtual Desktops_Sum	true	Citrix Virtual Desktops
+Citrix Workspace_Sum	true	Citrix Workspace
+CloudBees Jenkins_Sum	true	CloudBees Jenkins_Sum
+Cloudera_Sum	true	Cloudera_Sum
+Commvault (Unspecified Product)_Sum	false	Commvault (Unspecified Product)
+CouchDB_Sum	true	CouchDB_Sum
+Couchbase_Sum	true	Couchbase_Sum
+DameWare_Sum	true	DameWare_Sum
+Dassault Systemes (Unspecified Product)_Sum	true	Dassault Systemes (Unspecified Product)_Sum
+DataStax_Sum	true	DataStax_Sum
+Dell Boomi_Sum	true	Dell Boomi_Sum
+Dell EMC Avamar_Sum	true	Dell EMC Avamar_Sum
+Dell EMC CLARiiON CX_Sum	false	Dell EMC CLARiiON CX
+Dell EMC Celerra_Sum	false	Dell EMC Celerra
+Dell EMC Centera_Sum	false	Dell EMC Centera
+Dell EMC Clariion_Sum	false	Dell EMC Clariion
+Dell EMC Data Domain_Sum	false	Dell EMC Data Domain
+Dell EMC Disaster Recovery_Sum	true	Dell EMC Disaster Recovery_Sum
+Dell EMC ECM_Sum	true	Dell EMC ECM_Sum
+Dell EMC Isilon_Sum	false	Dell EMC Isilon
+Dell EMC SAN (Storage Area Network)_Sum	false	Dell EMC SAN (Storage Area Network)
+Dell EMC Unity_Sum	false	Dell EMC Unity
+Dell EMC VCE_Sum	false	Dell EMC VCE
+Dell EMC VMAX All Flash_Sum	false	Dell EMC VMAX All Flash
+Dell EMC VNX_Sum	false	Dell EMC VNX
+Dell EMC VNXe_Sum	false	Dell EMC VNXe
+Dell EMC Vblock_Sum	false	Dell EMC Vblock
+Dell EMC VxBlock_Sum	false	Dell EMC VxBlock
+Dell EMC VxFlex_Sum	false	Dell EMC VxFlex
+Dell EMC VxRail_Sum	false	Dell EMC VxRail
+Dell EMC XtremIO_Sum	false	Dell EMC XtremIO
+Dell EqualLogic Compellent Storage Center_Sum	false	Dell EqualLogic Compellent Storage Center
+Dell EqualLogic Networked Storage_Sum	false	Dell EqualLogic Networked Storage
+Dell PowerEdge Servers_Sum	false	Dell PowerEdge Servers
+Dell PowerVault Storage Arrays_Sum	false	Dell PowerVault Storage Arrays
+Docker_Sum	true	Docker_Sum
+EMC VNX5300_Sum	true	EMC VNX5300_Sum
+EMC VNX5500_Sum	true	EMC VNX5500_Sum
+EMC VNX5700_Sum	true	EMC VNX5700_Sum
+Ellucian (Unspecified Product)_Sum	true	Ellucian (Unspecified Product)_Sum
+Epic Systems_Sum	true	Epic Systems_Sum
+Fujitsu Servers_Sum	false	Fujitsu Servers
+Genetec_Sum	true	Genetec_Sum
+GitHub_Sum	true	GitHub_Sum
+GitLab_Sum	true	GitLab_Sum
+GlusterFS_Sum	false	GlusterFS
+Google Cloud Platform_Sum	false	Google Cloud Platform
+Google Kubernetes Engine_Sum	true	Google Kubernetes Engine_Sum
+Grafana_Sum	true	Grafana_Sum
+H2O.ai_Sum	true	H2O.ai_Sum
+HPE 3PAR_Sum	false	HPE 3PAR
+HPE Disk Array Storage Systems_Sum	false	HPE Disk Array Storage Systems
+HPE EVA P6000 Storage_Sum	false	HPE EVA P6000 Storage
+HPE ProLiant DL380_Sum	false	HPE ProLiant DL380_Sum
+HPE Servers_Sum	false	HPE Servers
+HPE Serviceguard_Sum	true	HPE Serviceguard_Sum
+HPE SimpliVity_Sum	false	HPE SimpliVity_Sum
+HPE Storage Systems_Sum	false	HPE Storage Systems
+Hitachi NAS Storage System_Sum	false	Hitachi NAS Storage System_Sum
+Hitachi SAN Storage System_Sum	false	Hitachi SAN Storage System_Sum
+Hitachi Vantara (Unspecified Product)_Sum	false	Hitachi Vantara (Unspecified Product)
+Hitachi Virtual Storage Platform (VSP)_Sum	false	Hitachi Virtual Storage Platform (VSP)
+IBM 3090_Sum	false	IBM 3090
+IBM Cognos Analytics_Sum	true	IBM Cognos Analytics_Sum
+IBM Db2_Sum	true	IBM Db2_Sum
+IBM Mainframe_Sum	false	IBM Mainframe
+IBM POWER Systems_Sum	false	IBM POWER Systems
+IBM Spectrum Protect_Sum	true	IBM Spectrum Protect_Sum
+IBM Spectrum Scale_Sum	true	IBM Spectrum Scale_Sum
+IBM Storage Area Network (SAN)_Sum	true	IBM Storage Area Network (SAN)_Sum
+IBM System Storage Disk Systems_Sum	true	IBM System Storage Disk Systems_Sum
+IBM System Storage SAN Volume Controller (SVC)_Sum	true	IBM System Storage SAN Volume Controller (SVC)_Sum
+IBM System i_Sum	false	IBM System i
+IBM System i Midrange Computing Server_Sum	false	IBM System i Midrange Computing Server
+IBM System p Server_Sum	false	IBM System p Server
+IBM System z Mainframe_Sum	false	IBM System z Mainframe
+IBM Watson_Sum	true	IBM Watson_Sum
+IBM XIV_Sum	true	IBM XIV_Sum
+Ivanti User Workspace Manager_Sum	true	Ivanti User Workspace Manager_Sum
+JD Edwards (Unspecified Product)_Sum	false	JD Edwards (Unspecified Product)
+JFrog_Sum	true	JFrog_Sum
+JFrog Artifactory_Sum	true	JFrog Artifactory_Sum
+KVM_Sum	true	KVM_Sum
+Kubernetes_Sum	false	Kubernetes
+Lenel_Sum	true	Lenel_Sum
+Lenovo Flex System Blade Servers_Sum	false	Lenovo Flex System Blade Servers
+MapR_Sum	true	MapR_Sum
+Micro Focus (Unspecified Product)_Sum	true	Micro Focus (Unspecified Product)_Sum
+Microsoft Access_Sum	true	Microsoft Access_Sum
+Microsoft App-V_Sum	true	Microsoft App-V_Sum
+Microsoft Azure_Sum	false	Microsoft Azure
+Microsoft Dynamics_Sum	true	Microsoft Dynamics_Sum
+Microsoft Exchange Server_Sum	false	Microsoft Exchange Server
+Microsoft Hyper-V Server_Sum	false	Microsoft Hyper-V Server
+Microsoft Office_Sum	true	Microsoft Office_Sum
+Microsoft Office 365_Sum	false	Microsoft Office 365
+Microsoft Power BI_Sum	true	Microsoft Power BI_Sum
+Microsoft SQL Server_Sum	false	Microsoft SQL Server
+Microsoft SQL Server Management Studio_Sum	true	Microsoft SQL Server Management Studio_Sum
+Microsoft SharePoint_Sum	false	Microsoft SharePoint
+Microsoft Windows Virtual Desktop_Sum	true	Microsoft Windows Virtual Desktop_Sum
+MongoDB_Sum	true	MongoDB_Sum
+MySQL_Sum	false	MySQL
+NVIDIA CUDA_Sum	true	NVIDIA CUDA_Sum
+Neo4j_Sum	true	Neo4j_Sum
+Netezza_Sum	true	Netezza_Sum
+Nimble CS-Series_Sum	false	Nimble CS-Series
+Nutanix_Sum	false	Nutanix
+OpenStack_Sum	true	OpenStack_Sum
+Oracle 10g_Sum	false	Oracle 10g
+Oracle 12c_Sum	false	Oracle 12c
+Oracle 8i_Sum	false	Oracle 8i
+Oracle Cloud Platform_Sum	true	Oracle Cloud Platform_Sum
+Oracle Database_Sum	false	Oracle Database
+Oracle Database 11g Enterprise Edition_Sum	false	Oracle Database 11g Enterprise Edition
+Oracle ERP_Sum	false	Oracle ERP
+Oracle Exadata_Sum	false	Oracle Exadata
+Oracle Exalogic_Sum	false	Oracle Exalogic
+Oracle Hyperion Planning_Sum	true	Oracle Hyperion Planning_Sum
+Oracle PeopleSoft_Sum	false	Oracle PeopleSoft
+Oracle Real Application Clusters_Sum	true	Oracle Real Application Clusters_Sum
+Oracle Sun Servers_Sum	false	Oracle Sun Servers
+Oracle VM VirtualBox_Sum	true	Oracle VM VirtualBox_Sum
+Oracle9i_Sum	false	Oracle9i
+Parallels_Sum	true	Parallels_Sum
+PostgreSQL_Sum	true	PostgreSQL_Sum
+Puppet Enterprise_Sum	true	Puppet Enterprise_Sum
+Pure Storage_Sum	false	Pure Storage
+Qumulo_Sum	true	Qumulo_Sum
+R Project_Sum	true	R Project_Sum
+Red Hat (Unspecified Product)_Sum	true	Red Hat (Unspecified Product)_Sum
+Red Hat Enterprise Linux Server_Sum	true	Red Hat Enterprise Linux Server_Sum
+Red Hat Gluster Storage_Sum	true	Red Hat Gluster Storage_Sum
+Red Hat OpenShift_Sum	false	Red Hat OpenShift
+Red Hat Virtualization_Sum	true	Red Hat Virtualization_Sum
+Redis_Sum	true	Redis_Sum
+Rubrik_Sum	true	Rubrik_Sum
+SAP BusinessObjects Business Intelligence_Sum	true	SAP BusinessObjects Business Intelligence_Sum
+SAP CRM_Sum	false	SAP CRM
+SAP Cloud Platform_Sum	false	SAP Cloud Platform
+SAP Controlling (CO)_Sum	false	SAP Controlling (CO)_Sum
+SAP Data Warehousing_Sum	false	SAP Data Warehousing
+SAP ERP_Sum	false	SAP ERP
+SAP ERP Central Component (ECC)_Sum	false	SAP ERP Central Component (ECC)
+SAP ERP Financials_Sum	false	SAP ERP Financials
+SAP Financial Accounting (FI)_Sum	false	SAP Financial Accounting (FI)_Sum
+SAP Fiori_Sum	false	SAP Fiori
+SAP HANA_Sum	false	SAP HANA
+SAP Lumira_Sum	false	SAP Lumira
+SAP Product Lifecycle Management_Sum	false	SAP Product Lifecycle Management
+SAP S/4HANA_Sum	false	SAP S/4HANA
+SAP Sales & Distribution (SD)_Sum	true	SAP Sales & Distribution (SD)_Sum
+SAP Supplier Relationship Management_Sum	false	SAP Supplier Relationship Management
+SAP Supply Chain Management_Sum	false	SAP Supply Chain Management
+Salesforce CRM_Sum	false	Salesforce CRM
+Simulink_Sum	true	Simulink_Sum
+SonarQube_Sum	true	SonarQube_Sum
+Sonatype Nexus Platform_Sum	true	Sonatype Nexus Platform_Sum
+Splunk_Sum	false	Splunk
+Synopsys (Unspecified Product)_Sum	true	Synopsys (Unspecified Product)_Sum
+Tableau_Sum	true	Tableau_Sum
+TeamViewer_Sum	true	TeamViewer_Sum
+TensorFlow_Sum	true	TensorFlow_Sum
+Teradata_Sum	true	Teradata_Sum
+Tintri_Sum	true	Tintri_Sum
+VHSIC Hardware Description Language (VHDL)_Sum	true	VHSIC Hardware Description Language (VHDL)_Sum
+VMWare vSAN_Sum	true	VMWare vSAN_Sum
+VMware (Unspecified Product)_Sum	false	VMware (Unspecified Product)
+VMware AirWatch_Sum	true	VMware AirWatch_Sum
+VMware ESXi_Sum	true	VMware ESXi_Sum
+VMware Horizon_Sum	true	VMware Horizon
+VMware Site Recovery Manager_Sum	true	VMware Site Recovery Manager_Sum
+VMware View_Sum	true	VMware View_Sum
+VMware Virtual Desktop Infrastructure_Sum	true	VMware Virtual Desktop Infrastructure
+VMware Virtual Infrastructure_Sum	true	VMware Virtual Infrastructure_Sum
+VMware Workstation Pro_Sum	true	VMware Workstation Pro_Sum
+VMware vCenter_Sum	true	VMware vCenter_Sum
+VMware vCloud_Sum	true	VMware vCloud_Sum
+VMware vCloud Director_Sum	true	VMware vCloud Director_Sum
+VMware vRealize_Sum	true	VMware vRealize_Sum
+VMware vSphere_Sum	true	VMware vSphere_Sum
+Veeam_Sum	false	Veeam
+Veeam Backup & Replication_Sum	true	Veeam Backup & Replication_Sum
+Veritas (Unspecified Product)_Sum	true	Veritas (Unspecified Product)_Sum
+Veritas NetBackup_Sum	true	Veritas NetBackup_Sum
+Workday_Sum	true	Workday_Sum
+XGBoost_Sum	true	XGBoost_Sum
+eClinicalWorks_Sum	true	eClinicalWorks_Sum
+scikit-learn_Sum	true	scikit-learn_Sum
