@@ -1,7 +1,0 @@
-ipykernel
-jupyterlab
-notebook
-numpy
-pandas
-openpyxl
-matplotlib

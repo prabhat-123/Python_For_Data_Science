@@ -1,3 +1,0 @@
-ipykernel
-jupyterlab
-notebook
